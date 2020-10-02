@@ -1,2 +1,2 @@
 # Create-R-package
-help creat R package
+help create an R package
