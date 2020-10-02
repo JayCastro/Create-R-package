@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/669554/d427235fee9048c7bc91450968fa2213
+bundleId: https://api.rpubs.com/api/v1/document/669554/d427235fee9048c7bc91450968fa2213
+url: http://rpubs.com/JayCastro0/669554
+when: 1601665745.36536
