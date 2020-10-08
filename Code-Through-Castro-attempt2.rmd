@@ -123,4 +123,4 @@ devtools::install_github( "yourGitHubName/montyhall" )
 
 # Warning
 
-There might be an extra package that you might have to download called Rtools. website is https://cran.r-project.org/bin/windows/Rtools/ its very easy to follow along. 
+There might be an extra package that you might have to download called Rtools. website is https://cran.r-project.org/bin/windows/Rtools/ its very easy to follow along.  
