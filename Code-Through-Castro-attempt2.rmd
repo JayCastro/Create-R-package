@@ -89,20 +89,12 @@ To make sure the function is working properly, you want to hit check and make su
 knitr::include_graphics("C:/Users/Jacob/Documents/6.png")
 ```
 <br>
-Youll have to repeat this step as many times as you have functions !
-<br>
-
-<br>
 
 # Test It
 To make sure your function is working type your package name in the console and then type out the fucntion. 
 ```{r pressure6, echo=FALSE, fig.cap="Check Function", out.width = '100%'}
 knitr::include_graphics("C:/Users/Jacob/Documents/7.png")
 ```
-<br>
-Youll have to repeat this step as many times as you have functions !
-<br>
-
 # GitHub Hosting
 You have a couple of options for sharing your new package with others. You could submit the package to the CRAN so that everyone in the world could install it in R using install.packages(“montyhall”).
 
@@ -127,10 +119,8 @@ This last step sends all of the files to GitHub. They sould appear on your repo 
 
 Now others should be able to install your package by typing:
 
-devtools::install_github( "yourGitHubName/montyhall" ) 
+devtools::install_github( "yourGitHubName/montyhall" )
 
 # Warning
 
-There might be an extra package that you might have to download called Rtools. website is https://cran.r-project.org/bin/windows/Rtools/ its very easy to follow along.
-
-
+There might be an extra package that you might have to download called Rtools. website is https://cran.r-project.org/bin/windows/Rtools/ its very easy to follow along. 
